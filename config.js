@@ -26,7 +26,7 @@ global.lenguajeGB = es  //<-- Predeterminado en idioma Español
 
 // confirmación en el ajuste de idioma y owner en la consola
 global.languageLen = "es"
-global.registerNumber = ""
+global.registerNumber = "593979333577"
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
 global.openai_key = 'sk-0'
